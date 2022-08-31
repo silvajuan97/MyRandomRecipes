@@ -83,7 +83,7 @@ struct ContentView: View {
                            height: UIScreen.main.bounds.height))
             
             
-        }.navigationBarBackButtonHidden(<#T##hidesBackButton: Bool##Bool#>)
+        }
     }
 }
 
